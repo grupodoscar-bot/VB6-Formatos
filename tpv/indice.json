@@ -8,6 +8,27 @@
       "nombre": "F. Simplificada 8 puntos",
       "descripcion": "Ticket de factura simplificada a 8 puntos, para impresora termica de 80 mm. Lleva los datos de la empresa en la cabecera, el detalle de las lineas y el desglose por tipo de IVA en el pie.",
       "fecha": "2026-09-23"
+    },
+    {
+      "id": "albaran-compra-borrador",
+      "fichero": "Albaranes de Compra",
+      "nombre": "Albaran Compra borrador",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "albaran-compra-estandar-sin-logo",
+      "fichero": "Albaranes de Compra",
+      "nombre": "Albaran Compra estandar sin logo",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "albaran-compra-estandar-con-logo",
+      "fichero": "Albaranes de Compra",
+      "nombre": "Albaran Compra estandar con logo",
+      "descripcion": "",
+      "fecha": "2026-09-23"
     }
   ]
 }
