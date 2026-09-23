@@ -1,5 +1,13 @@
 {
   "programa": "tpv",
   "actualizado": "2026-09-23",
-  "formatos": []
+  "formatos": [
+    {
+      "id": "factura-simplificada-8-puntos",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simplificada 8 puntos",
+      "descripcion": "Ticket de factura simplificada a 8 puntos, para impresora termica de 80 mm. Lleva los datos de la empresa en la cabecera, el detalle de las lineas y el desglose por tipo de IVA en el pie.",
+      "fecha": "2026-09-23"
+    }
+  ]
 }
