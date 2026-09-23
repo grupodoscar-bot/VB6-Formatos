@@ -36,6 +36,1028 @@
       "nombre": "Albaran Compra con Numero Serie",
       "descripcion": "",
       "fecha": "2026-09-23"
+    },
+    {
+      "id": "albaran-borrador",
+      "fichero": "Albaranes de Venta",
+      "nombre": "Albaran borrador",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "albaran-estandar-sin-logo",
+      "fichero": "Albaranes de Venta",
+      "nombre": "Albaran estandar sin logo",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "albaran-estandar-con-logo",
+      "fichero": "Albaranes de Venta",
+      "nombre": "Albaran estandar con logo",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "albaran-con-talla-y-color",
+      "fichero": "Albaranes de Venta",
+      "nombre": "Albaran con Talla y Color",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "albaran-con-numero-serie",
+      "fichero": "Albaranes de Venta",
+      "nombre": "Albaran con Numero Serie",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "albaran-con-lote-y-caducidad",
+      "fichero": "Albaranes de Venta",
+      "nombre": "Albaran con Lote y Caducidad",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "albaran-estandar-retencion",
+      "fichero": "Albaranes de Venta",
+      "nombre": "Albaran estandar Retencion",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "albaran-estandar-con-logo-a5",
+      "fichero": "Albaranes de Venta",
+      "nombre": "Albaran estandar con logo A5",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "cobro-nota-de-venta-estandar",
+      "fichero": "Cobros de Notas de Venta",
+      "nombre": "Cobro Nota de Venta estandar",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-compra-borrador",
+      "fichero": "Facturas de Compra",
+      "nombre": "Factura Compra borrador",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-compra-estandar-sin-logo",
+      "fichero": "Facturas de Compra",
+      "nombre": "Factura Compra estandar sin logo",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-compra-estandar-con-logo",
+      "fichero": "Facturas de Compra",
+      "nombre": "Factura Compra estandar con logo",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-compra-con-talla-y-color",
+      "fichero": "Facturas de Compra",
+      "nombre": "Factura Compra con Talla y Color",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-compra-con-numero-serie",
+      "fichero": "Facturas de Compra",
+      "nombre": "Factura Compra con Numero Serie",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-borrador",
+      "fichero": "Facturas de Venta",
+      "nombre": "Factura borrador",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-estandar-sin-logo",
+      "fichero": "Facturas de Venta",
+      "nombre": "Factura estandar sin logo",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-estandar-con-logo",
+      "fichero": "Facturas de Venta",
+      "nombre": "Factura estandar con logo",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-con-talla-y-color",
+      "fichero": "Facturas de Venta",
+      "nombre": "Factura con Talla y Color",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-con-numero-serie",
+      "fichero": "Facturas de Venta",
+      "nombre": "Factura con Numero Serie",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-ticket",
+      "fichero": "Facturas de Venta",
+      "nombre": "Factura ticket",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-con-lote-y-caducidad",
+      "fichero": "Facturas de Venta",
+      "nombre": "Factura con Lote y Caducidad",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-estandar-retencion",
+      "fichero": "Facturas de Venta",
+      "nombre": "Factura estandar Retencion",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-estandar-con-logo-a5",
+      "fichero": "Facturas de Venta",
+      "nombre": "Factura estandar con logo A5",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-borrador-tbai",
+      "fichero": "Facturas de Venta",
+      "nombre": "Factura borrador TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-estandar-sin-logotbai",
+      "fichero": "Facturas de Venta",
+      "nombre": "Factura estandar sin logoTBAI",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-estandar-con-logo-tbai",
+      "fichero": "Facturas de Venta",
+      "nombre": "Factura estandar con logo TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-con-talla-y-color-tbai",
+      "fichero": "Facturas de Venta",
+      "nombre": "Factura con Talla y Color TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-con-numero-serie-tbai",
+      "fichero": "Facturas de Venta",
+      "nombre": "Factura con Numero Serie TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-ticket-tbai",
+      "fichero": "Facturas de Venta",
+      "nombre": "Factura ticket TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-borrador-verifactu",
+      "fichero": "Facturas de Venta",
+      "nombre": "Factura borrador VERIFACTU",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-estandar-sin-logo-verifactu",
+      "fichero": "Facturas de Venta",
+      "nombre": "Factura estandar sin logo VERIFACTU",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-estandar-con-logo-verifactu",
+      "fichero": "Facturas de Venta",
+      "nombre": "Factura estandar con logo VERIFACTU",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-con-talla-y-color-verifactu",
+      "fichero": "Facturas de Venta",
+      "nombre": "Factura con Talla y Color VERIFACTU",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-con-numero-serie-verifactu",
+      "fichero": "Facturas de Venta",
+      "nombre": "Factura con Numero Serie VERIFACTU",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-ticket-verifactu",
+      "fichero": "Facturas de Venta",
+      "nombre": "Factura ticket VERIFACTU",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-proforma-borrador",
+      "fichero": "Facturas ProForma",
+      "nombre": "Factura ProForma borrador",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-proforma-estandar-sin-logo",
+      "fichero": "Facturas ProForma",
+      "nombre": "Factura ProForma estandar sin logo",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-proforma-estandar-con-logo",
+      "fichero": "Facturas ProForma",
+      "nombre": "Factura ProForma estandar con logo",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-proforma-con-numero-serie",
+      "fichero": "Facturas ProForma",
+      "nombre": "Factura ProForma con Numero Serie",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "proforma-estandar-retencion",
+      "fichero": "Facturas ProForma",
+      "nombre": "Proforma estandar Retencion",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-rectif-compra-borrador",
+      "fichero": "Facturas Rectificativas de Compra",
+      "nombre": "Factura Rectif. Compra borrador",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-rectif-compra-estandar-sin-logo",
+      "fichero": "Facturas Rectificativas de Compra",
+      "nombre": "Factura Rectif. Compra estandar sin logo",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-rectif-compra-estandar-con-logo",
+      "fichero": "Facturas Rectificativas de Compra",
+      "nombre": "Factura Rectif. Compra estandar con logo",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-rectif-compra-con-talla-y-color",
+      "fichero": "Facturas Rectificativas de Compra",
+      "nombre": "Factura Rectif. Compra con Talla y Color",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-rectif-compra-con-numero-serie",
+      "fichero": "Facturas Rectificativas de Compra",
+      "nombre": "Factura Rectif. Compra con Numero Serie",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-rectif-venta-borrador",
+      "fichero": "Facturas Rectificativas de Venta",
+      "nombre": "Factura Rectif. Venta borrador",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-rectif-venta-estandar-sin-logo",
+      "fichero": "Facturas Rectificativas de Venta",
+      "nombre": "Factura Rectif. Venta estandar sin logo",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-rectif-venta-estandar-con-logo",
+      "fichero": "Facturas Rectificativas de Venta",
+      "nombre": "Factura Rectif. Venta estandar con logo",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-rectif-venta-con-talla-y-color",
+      "fichero": "Facturas Rectificativas de Venta",
+      "nombre": "Factura Rectif. Venta con Talla y Color",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "factura-rectif-venta-con-numero-serie",
+      "fichero": "Facturas Rectificativas de Venta",
+      "nombre": "Factura Rectif. Venta con Numero Serie",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "gasto-estandar",
+      "fichero": "Gastos",
+      "nombre": "Gasto estandar",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "ingreso-estandar",
+      "fichero": "Ingresos",
+      "nombre": "Ingreso estandar",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "nota-compra-borrador",
+      "fichero": "Notas de Compra",
+      "nombre": "Nota Compra borrador",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "nota-compra-estandar",
+      "fichero": "Notas de Compra",
+      "nombre": "Nota Compra estandar",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "nota-compra-con-talla-y-color",
+      "fichero": "Notas de Compra",
+      "nombre": "Nota Compra con Talla y Color",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "nota-compra-con-numero-serie",
+      "fichero": "Notas de Compra",
+      "nombre": "Nota Compra con Numero Serie",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "nota-venta-borrador",
+      "fichero": "Notas de Venta",
+      "nombre": "Nota Venta borrador",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "nota-venta-estandar",
+      "fichero": "Notas de Venta",
+      "nombre": "Nota Venta estandar",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "nota-venta-con-talla-y-color",
+      "fichero": "Notas de Venta",
+      "nombre": "Nota Venta con Talla y Color",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "nota-venta-con-numero-serie",
+      "fichero": "Notas de Venta",
+      "nombre": "Nota Venta con Numero Serie",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "pago-a-dependiente-estandar",
+      "fichero": "Pagos a Dependientes",
+      "nombre": "Pago a dependiente estandar",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "pago-a-proveedor-estandar",
+      "fichero": "Pagos a Proveedores",
+      "nombre": "Pago a proveedor estandar",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "pago-a-representante-estandar",
+      "fichero": "Pagos a Representantes",
+      "nombre": "Pago a representante estandar",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "pago-nota-de-compra-estandar",
+      "fichero": "Pagos de Notas de Compra",
+      "nombre": "Pago Nota de Compra estandar",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "pedido-proveedor-borrador",
+      "fichero": "Pedidos a Proveedores",
+      "nombre": "Pedido Proveedor borrador",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "pedido-proveedor-estandar-sin-logo",
+      "fichero": "Pedidos a Proveedores",
+      "nombre": "Pedido Proveedor estandar sin logo",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "pedido-proveedor-estandar-con-logo",
+      "fichero": "Pedidos a Proveedores",
+      "nombre": "Pedido Proveedor estandar con logo",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "pedido-proveedor-con-talla-y-color",
+      "fichero": "Pedidos a Proveedores",
+      "nombre": "Pedido Proveedor con Talla y Color",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "pedido-proveedor-con-numero-serie",
+      "fichero": "Pedidos a Proveedores",
+      "nombre": "Pedido Proveedor con Numero Serie",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "pedido-cliente-borrador",
+      "fichero": "Pedidos de Clientes",
+      "nombre": "Pedido Cliente borrador",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "pedido-cliente-estandar-sin-logo",
+      "fichero": "Pedidos de Clientes",
+      "nombre": "Pedido Cliente estandar sin logo",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "pedido-cliente-estandar-con-logo",
+      "fichero": "Pedidos de Clientes",
+      "nombre": "Pedido Cliente estandar con logo",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "pedido-cliente-con-talla-y-color",
+      "fichero": "Pedidos de Clientes",
+      "nombre": "Pedido Cliente con Talla y Color",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "pedido-cliente-con-numero-serie",
+      "fichero": "Pedidos de Clientes",
+      "nombre": "Pedido Cliente con Numero Serie",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "pedido-clientes-estandar-retencion",
+      "fichero": "Pedidos de Clientes",
+      "nombre": "Pedido clientes estandar Retencion",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "presupuesto-borrador",
+      "fichero": "Presupuestos de Venta",
+      "nombre": "Presupuesto borrador",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "presupuesto-estandar-sin-logo",
+      "fichero": "Presupuestos de Venta",
+      "nombre": "Presupuesto estandar sin logo",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "presupuesto-estandar-con-logo",
+      "fichero": "Presupuestos de Venta",
+      "nombre": "Presupuesto estandar con logo",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "presupuesto-sin-precios",
+      "fichero": "Presupuestos de Venta",
+      "nombre": "Presupuesto sin precios",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "presupuesto-con-talla-y-color",
+      "fichero": "Presupuestos de Venta",
+      "nombre": "Presupuesto con Talla y Color",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "presupuesto-con-numero-serie",
+      "fichero": "Presupuestos de Venta",
+      "nombre": "Presupuesto con Numero Serie",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "presupuesto-estandar-retencion",
+      "fichero": "Presupuestos de Venta",
+      "nombre": "Presupuesto estandar Retencion",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "presupuesto-estandar-con-logo-a5",
+      "fichero": "Presupuestos de Venta",
+      "nombre": "Presupuesto estandar con logo A5",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "recibo-de-cliente-estandar",
+      "fichero": "Recibos de Clientes",
+      "nombre": "Recibo de cliente estandar",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "recibo-de-cliente-preimpreso",
+      "fichero": "Recibos de Clientes",
+      "nombre": "Recibo de Cliente preimpreso",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simplificada-8-puntos",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simplificada 8 puntos",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "ticket-vale-letra-8-puntos",
+      "fichero": "Tickets de Venta",
+      "nombre": "Ticket Vale letra 8 puntos",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simplificada-8-puntos-un-solo-iva",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simplificada 8 puntos (un solo IVA)",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simpli-cuartilla-con-logo-y-desglose",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simpli. cuartilla con logo y desglose",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simplif-8-puntos-descripcion-completa",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simplif 8 puntos Descripcion Completa",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "ticket-regalo-letra-8-puntos",
+      "fichero": "Tickets de Venta",
+      "nombre": "Ticket Regalo letra 8 puntos",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "ticket-regalo-con-talla-y-color",
+      "fichero": "Tickets de Venta",
+      "nombre": "Ticket Regalo con Talla y Color",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simplificada-8-puntos-datos-clientes",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simplificada 8 puntos Datos Clientes",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "ticket-8-puntos-con-talla-y-color",
+      "fichero": "Tickets de Venta",
+      "nombre": "Ticket 8 puntos con Talla y Color",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "ticket-8-puntos-con-numero-serie",
+      "fichero": "Tickets de Venta",
+      "nombre": "Ticket 8 puntos con Numero Serie",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simplificada-10-puntos",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simplificada 10 puntos",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simplificada-10-puntos-cliente",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simplificada 10 puntos CLIENTE",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simplificada-8-pt-con-qr",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simplificada 8 pt. con QR",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simplificada-10-pt-con-qr",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simplificada 10 pt. con QR",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "fact-simp-lucidaconsole",
+      "fichero": "Tickets de Venta",
+      "nombre": "Fact. Simp. LucidaConsole",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "vale-8p-lucidaconsole",
+      "fichero": "Tickets de Venta",
+      "nombre": "Vale 8p. LucidaConsole",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simp-un-iva-lucidaconsole",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simp. un IVA LucidaConsole",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simp-desc-completa-lucidaconsole",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simp. Desc. Completa LucidaConsole",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "ticket-regalo-8p-lucidaconsole",
+      "fichero": "Tickets de Venta",
+      "nombre": "Ticket Regalo 8p. LucidaConsole",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "t-regalo-con-talla-y-color-lucidaconsole",
+      "fichero": "Tickets de Venta",
+      "nombre": "T.Regalo con Talla y Color LucidaConsole",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simp-datos-clientes-lucidaconsole",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simp. Datos Clientes LucidaConsole",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simp-talla-y-color-lucidaconsole",
+      "fichero": "Tickets de Venta",
+      "nombre": "F.Simp. Talla y Color LucidaConsole",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simp-con-descuento-lucidaconsole",
+      "fichero": "Tickets de Venta",
+      "nombre": "F.Simp. con Descuento LucidaConsole",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "fact-simp-con-logo-lucidaconsole",
+      "fichero": "Tickets de Venta",
+      "nombre": "Fact. Simp. con Logo LucidaConsole",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simplificada-58mm-8p",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simplificada 58mm. 8p.",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "ticket-vale-58mm",
+      "fichero": "Tickets de Venta",
+      "nombre": "Ticket Vale 58mm",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "ticket-regalo-58mm",
+      "fichero": "Tickets de Venta",
+      "nombre": "Ticket Regalo 58mm",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simplificada-8-puntos-con-re",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simplificada 8 puntos con RE",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "fact-simp-con-logo-con-re",
+      "fichero": "Tickets de Venta",
+      "nombre": "Fact. Simp. con Logo con RE",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simplificada-8-puntos-tbai",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simplificada 8 puntos TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simpl-8-puntos-un-solo-iva-tbai",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simpl. 8 puntos (un solo IVA) TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simpl-8pt-descripcion-completa-tbai",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simpl. 8pt Descripcion Completa TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simpl-8pt-datos-clientes-tbai",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simpl. 8pt Datos Clientes TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "ticket-8pt-con-talla-y-color-tbai",
+      "fichero": "Tickets de Venta",
+      "nombre": "Ticket 8pt con Talla y Color TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "ticket-8pt-con-numero-serie-tbai",
+      "fichero": "Tickets de Venta",
+      "nombre": "Ticket 8pt con Numero Serie TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "fact-simp-lucidaconsole-tbai",
+      "fichero": "Tickets de Venta",
+      "nombre": "Fact. Simp. LucidaConsole TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simp-un-iva-lucidaconsole-tbai",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simp. un IVA LucidaConsole TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simp-desc-compl-lucidaconsole-tbai",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simp. Desc. Compl. LucidaConsole TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simp-datos-cli-lucidaconsole-tbai",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simp. Datos Cli. LucidaConsole TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simp-talla-y-color-lucidaconsole-tbai",
+      "fichero": "Tickets de Venta",
+      "nombre": "F.Simp. Talla y Color LucidaConsole TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simp-con-descuento-lucidaconsole-tbai",
+      "fichero": "Tickets de Venta",
+      "nombre": "F.Simp. con Descuento LucidaConsole TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "fact-simp-con-logo-lucidaconsole-tbai",
+      "fichero": "Tickets de Venta",
+      "nombre": "Fact. Simp. con Logo LucidaConsole TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simplificada-58mm-8p-tbai",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simplificada 58mm. 8p. TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simplificada-8-puntos-con-re-tbai",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simplificada 8 puntos con RE TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "fact-simp-con-logo-con-re-tbai",
+      "fichero": "Tickets de Venta",
+      "nombre": "Fact. Simp. con Logo con RE TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simplificada-8-puntos-verifactu",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simplificada 8 puntos VERIFACTU",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simpl-8-puntos-un-solo-iva-verifac",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simpl. 8 puntos (un solo IVA) VERIFAC",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simpl-8pt-descripcion-completa-verif",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simpl. 8pt Descripcion Completa VERIF",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simpl-8pt-datos-clientes-verifactu",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simpl. 8pt Datos Clientes VERIFACTU",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "ticket-8pt-con-talla-y-color-verifactu",
+      "fichero": "Tickets de Venta",
+      "nombre": "Ticket 8pt con Talla y Color VERIFACTU",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "ticket-8pt-con-numero-serie-verifactu",
+      "fichero": "Tickets de Venta",
+      "nombre": "Ticket 8pt con Numero Serie VERIFACTU",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "fact-simp-lucidaconsole-verifactu",
+      "fichero": "Tickets de Venta",
+      "nombre": "Fact. Simp. LucidaConsole VERIFACTU",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simp-un-iva-lucidaconsole-verifactu",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simp. un IVA LucidaConsole VERIFACTU",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simp-desc-compl-lucidaconsole-veri",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simp. Desc. Compl. LucidaConsole VERI",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simp-datos-cli-lucidaconsole-verifa",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simp. Datos Cli. LucidaConsole VERIFA",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simp-talla-y-color-lucidaconsole-veri",
+      "fichero": "Tickets de Venta",
+      "nombre": "F.Simp. Talla y Color LucidaConsole VERI",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simp-con-descuento-lucidaconsole-veri",
+      "fichero": "Tickets de Venta",
+      "nombre": "F.Simp. con Descuento LucidaConsole VERI",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "fact-simp-con-logo-lucidaconsole-verif",
+      "fichero": "Tickets de Venta",
+      "nombre": "Fact. Simp. con Logo LucidaConsole VERIF",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simplificada-58mm-8p-verifactu",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simplificada 58mm. 8p. VERIFACTU",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "f-simplificada-8-puntos-con-re-verifact",
+      "fichero": "Tickets de Venta",
+      "nombre": "F. Simplificada 8 puntos con RE VERIFACT",
+      "descripcion": "",
+      "fecha": "2026-09-23"
+    },
+    {
+      "id": "fact-simp-con-logo-con-re-verifactu",
+      "fichero": "Tickets de Venta",
+      "nombre": "Fact. Simp. con Logo con RE VERIFACTU",
+      "descripcion": "",
+      "fecha": "2026-09-23"
     }
   ]
 }
