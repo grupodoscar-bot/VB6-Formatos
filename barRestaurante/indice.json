@@ -342,28 +342,28 @@
       "id": "aviso-cocina-t1-a",
       "fichero": "Tickets de Venta",
       "nombre": "Aviso Cocina T1 A",
-      "descripcion": "",
+      "descripcion": "Tamaño 1 Fuente A",
       "fecha": "2026-09-24"
     },
     {
       "id": "aviso-cocina-t2-a",
       "fichero": "Tickets de Venta",
       "nombre": "Aviso Cocina T2 A",
-      "descripcion": "",
+      "descripcion": "Tamaño 2 Fuente A",
       "fecha": "2026-09-24"
     },
     {
       "id": "aviso-cocina-t1-b",
       "fichero": "Tickets de Venta",
       "nombre": "Aviso Cocina T1 B",
-      "descripcion": "",
+      "descripcion": "Tamaño 1 Fuente B",
       "fecha": "2026-09-24"
     },
     {
       "id": "aviso-cocina-t2-b",
       "fichero": "Tickets de Venta",
       "nombre": "Aviso Cocina T2 B",
-      "descripcion": "",
+      "descripcion": "Tamaño 2 Fuente B",
       "fecha": "2026-09-24"
     },
     {
