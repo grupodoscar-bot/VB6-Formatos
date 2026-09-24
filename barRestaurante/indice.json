@@ -1,5 +1,454 @@
 {
   "programa": "barRestaurante",
-  "actualizado": "2026-09-23",
-  "formatos": []
+  "actualizado": "2026-09-24",
+  "formatos": [
+    {
+      "id": "albaran-sin-logo",
+      "fichero": "Albaranes de Venta",
+      "nombre": "Albaran sin logo",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "albaran-con-logo",
+      "fichero": "Albaranes de Venta",
+      "nombre": "Albaran con logo",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "albaran-borrador",
+      "fichero": "Albaranes de Venta",
+      "nombre": "Albaran borrador",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "albaran-con-logo-a5",
+      "fichero": "Albaranes de Venta",
+      "nombre": "Albaran con logo A5",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "factura-borrador-verifactu",
+      "fichero": "Facturas de Venta",
+      "nombre": "Factura borrador VERIFACTU",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "factura-sin-logo-verifactu",
+      "fichero": "Facturas de Venta",
+      "nombre": "Factura sin logo VERIFACTU",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "factura-con-logo-verifactu",
+      "fichero": "Facturas de Venta",
+      "nombre": "Factura con logo VERIFACTU",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "factura-con-logo-a5-verifactu",
+      "fichero": "Facturas de Venta",
+      "nombre": "Factura con logo A5 VERIFACTU",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "factura-ticket-verifactu",
+      "fichero": "Facturas de Venta",
+      "nombre": "Factura ticket VERIFACTU",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "factura-borrador-tbai",
+      "fichero": "Facturas de Venta",
+      "nombre": "Factura borrador TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "factura-sin-logo-tbai",
+      "fichero": "Facturas de Venta",
+      "nombre": "Factura sin logo TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "factura-con-logo-tbai",
+      "fichero": "Facturas de Venta",
+      "nombre": "Factura con logo TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "factura-ticket-tbai",
+      "fichero": "Facturas de Venta",
+      "nombre": "Factura ticket TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "factura-proforma-sin-logo",
+      "fichero": "Facturas ProForma",
+      "nombre": "Factura ProForma sin logo",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "factura-proforma-con-logo",
+      "fichero": "Facturas ProForma",
+      "nombre": "Factura ProForma con logo",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "factura-proforma-borrador",
+      "fichero": "Facturas ProForma",
+      "nombre": "Factura ProForma borrador",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "factura-rectif-borrador-verifactu",
+      "fichero": "Facturas Rectificativas de Venta",
+      "nombre": "Factura Rectif borrador VERIFACTU",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "factura-rectif-sin-logo-verifactu",
+      "fichero": "Facturas Rectificativas de Venta",
+      "nombre": "Factura Rectif sin logo VERIFACTU",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "factura-rectif-con-logo-verifactu",
+      "fichero": "Facturas Rectificativas de Venta",
+      "nombre": "Factura Rectif con logo VERIFACTU",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "factura-rectif-borrador-tbai",
+      "fichero": "Facturas Rectificativas de Venta",
+      "nombre": "Factura Rectif borrador TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "factura-rectif-sin-logo-tbai",
+      "fichero": "Facturas Rectificativas de Venta",
+      "nombre": "Factura Rectif sin logo TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "factura-rectif-con-logo-tbai",
+      "fichero": "Facturas Rectificativas de Venta",
+      "nombre": "Factura Rectif con logo TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "gasto",
+      "fichero": "Gastos",
+      "nombre": "Gasto",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "ingreso",
+      "fichero": "Ingresos",
+      "nombre": "Ingreso",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "pago-a-camarero",
+      "fichero": "Pagos a Camareros",
+      "nombre": "Pago a camarero",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "pago-a-proveedor",
+      "fichero": "Pagos a Proveedores",
+      "nombre": "Pago a proveedor",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "pago-a-representante",
+      "fichero": "Pagos a Representantes",
+      "nombre": "Pago a representante",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "pedido-cliente-sin-logo",
+      "fichero": "Pedidos de Clientes",
+      "nombre": "Pedido Cliente sin logo",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "pedido-cliente-con-logo",
+      "fichero": "Pedidos de Clientes",
+      "nombre": "Pedido Cliente con logo",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "pedido-cliente-borrador",
+      "fichero": "Pedidos de Clientes",
+      "nombre": "Pedido Cliente borrador",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "presupuesto-sin-logo",
+      "fichero": "Presupuestos de Venta",
+      "nombre": "Presupuesto sin logo",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "presupuesto-con-logo",
+      "fichero": "Presupuestos de Venta",
+      "nombre": "Presupuesto con logo",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "presupuesto-borrador",
+      "fichero": "Presupuestos de Venta",
+      "nombre": "Presupuesto borrador",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "presupuesto-sin-precios",
+      "fichero": "Presupuestos de Venta",
+      "nombre": "Presupuesto sin precios",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "presupuesto-con-logo-a5",
+      "fichero": "Presupuestos de Venta",
+      "nombre": "Presupuesto con logo A5",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "recibo-de-cliente",
+      "fichero": "Recibos de Clientes",
+      "nombre": "Recibo de cliente",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "fs-10p-verifactu",
+      "fichero": "Tickets de Venta",
+      "nombre": "FS 10p VERIFACTU",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "comprobante-10p",
+      "fichero": "Tickets de Venta",
+      "nombre": "Comprobante 10p",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "fs-un-iva-10p-verifactu",
+      "fichero": "Tickets de Venta",
+      "nombre": "FS un IVA 10p VERIFACTU",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "fs-con-logo-10p-verifactu",
+      "fichero": "Tickets de Venta",
+      "nombre": "FS con LOGO 10p VERIFACTU",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "fs-un-iva-58mm-8p-verifactu",
+      "fichero": "Tickets de Venta",
+      "nombre": "FS un IVA 58mm 8p VERIFACTU",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "fs-un-iva-58mm-7p-verifactu",
+      "fichero": "Tickets de Venta",
+      "nombre": "FS un IVA 58mm 7p. VERIFACTU",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "fs-58mm-8p-verifactu",
+      "fichero": "Tickets de Venta",
+      "nombre": "FS 58mm. 8p VERIFACTU",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "fs-58mm-7p-verifactu",
+      "fichero": "Tickets de Venta",
+      "nombre": "FS 58mm. 7p VERIFACTU",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "comprobante-58mm-8p",
+      "fichero": "Tickets de Venta",
+      "nombre": "Comprobante 58mm. 8p",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "comprobante-58mm-7p",
+      "fichero": "Tickets de Venta",
+      "nombre": "Comprobante 58mm. 7p",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "aviso-cocina-58mm-8p",
+      "fichero": "Tickets de Venta",
+      "nombre": "Aviso Cocina 58mm. 8p",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "aviso-barra-58mm-8p",
+      "fichero": "Tickets de Venta",
+      "nombre": "Aviso Barra 58mm. 8p",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "aviso-cocina-t1-a",
+      "fichero": "Tickets de Venta",
+      "nombre": "Aviso Cocina T1 A",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "aviso-cocina-t2-a",
+      "fichero": "Tickets de Venta",
+      "nombre": "Aviso Cocina T2 A",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "aviso-cocina-t1-b",
+      "fichero": "Tickets de Venta",
+      "nombre": "Aviso Cocina T1 B",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "aviso-cocina-t2-b",
+      "fichero": "Tickets de Venta",
+      "nombre": "Aviso Cocina T2 B",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "aviso-barra-t1-a",
+      "fichero": "Tickets de Venta",
+      "nombre": "Aviso Barra T1 A",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "aviso-barra-t2-a",
+      "fichero": "Tickets de Venta",
+      "nombre": "Aviso Barra T2 A",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "aviso-barra-t1-b",
+      "fichero": "Tickets de Venta",
+      "nombre": "Aviso Barra T1 B",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "aviso-barra-t2-b",
+      "fichero": "Tickets de Venta",
+      "nombre": "Aviso Barra T2 B",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "comprobante-telecomanda",
+      "fichero": "Tickets de Venta",
+      "nombre": "Comprobante Telecomanda",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "fs-10p-tbai",
+      "fichero": "Tickets de Venta",
+      "nombre": "FS 10p TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "fs-un-iva-10p-tbai",
+      "fichero": "Tickets de Venta",
+      "nombre": "FS un IVA 10p TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "fs-con-logo-10p-tbai",
+      "fichero": "Tickets de Venta",
+      "nombre": "FS con LOGO 10p TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "fs-un-iva-58mm-8p-tbai",
+      "fichero": "Tickets de Venta",
+      "nombre": "FS un IVA 58mm 8p TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "fs-un-iva-58mm-7p-tbai",
+      "fichero": "Tickets de Venta",
+      "nombre": "FS un IVA 58mm 7p. TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "fs-58mm-8p-tbai",
+      "fichero": "Tickets de Venta",
+      "nombre": "FS 58mm. 8p TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    },
+    {
+      "id": "fs-58mm-7p-tbai",
+      "fichero": "Tickets de Venta",
+      "nombre": "FS 58mm. 7p TBAI",
+      "descripcion": "",
+      "fecha": "2026-09-24"
+    }
+  ]
 }
