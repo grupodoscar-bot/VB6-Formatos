@@ -1,7 +1,7 @@
 {
   "id": "aviso-cocina",
   "cabecera": {
-    "Descripcion": "Aviso Cocina",
+    "Descripcion": "Aviso Barra",
     "Fichero": "Tickets de Venta",
     "Ancho": 0.0,
     "Alto": 0.0,
@@ -13,7 +13,7 @@
     "Horizontal Imagen": 0.0,
     "Vertical Imagen": 0.0,
     "Pagina Predeterminada": false,
-    "Longitud Descripcion": 16,
+    "Longitud Descripcion": 20,
     "Archivo Imagen Pie": "",
     "Horizontal Imagen Pie": 0.0,
     "Vertical Imagen Pie": 0.0,
@@ -48,7 +48,7 @@
       "Ubicacion": "Cabecera",
       "Linea": 2,
       "Campo": "Texto Fijo",
-      "Texto": "A V I S O     C O C I N A",
+      "Texto": "A V I S O     B A R R A",
       "Horizontal": 1.0,
       "Vertical": 2.0,
       "Alineacion": "Izquierda",
